@@ -1,48 +1,60 @@
-<h1 align="center">Привет, я Юрий 👋</h1>
+<h1 align="center">Юрий Соколов</h1>
 
 <p align="center">
-  <b>Разрабатываю сайты, Telegram-ботов и автоматизацию для бизнеса</b>
+  <strong>Разрабатываю сайты, Telegram-ботов и автоматизацию для бизнеса</strong><br>
+  Помогаю превращать идеи и рутинные процессы в понятные, удобные и работающие digital-продукты.
 </p>
 
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="aiogram" src="https://img.shields.io/badge/aiogram-3.x-2F6BFF?style=flat-square&logo=telegram&logoColor=white" />
-  <img alt="HTML" src="https://img.shields.io/badge/HTML5-CSS3-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-3-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/urasokolik?style=flat-square&logo=github&logoColor=white" />
+  <a href="https://t.me/urasokolik">Связаться в Telegram</a>
 </p>
 
 ---
 
-### 💼 Проекты
+## Чем могу помочь
 
-#### 🏠 Бот подбора недвижимости — Telegram + VK
-Омниканальный бот для агентства недвижимости: проводит клиента по анкете, учитывает отдельный сценарий аренды и передаёт готовую заявку менеджеру. Обе платформы работают в одном сервисе на Render.
+- Создать Telegram-бота для заявок, рассылок, анкет и поддержки клиентов
+- Разработать адаптивный сайт или лендинг под задачу бизнеса
+- Автоматизировать сбор данных, уведомления и внутренние процессы
+- Подключить API и объединить несколько каналов в одном сервисе
+- Подготовить проект к запуску и разместить его в облаке
 
-**Стек:** Python, aiogram, VK API, aiohttp, Render.
+## Избранные проекты
 
-#### 🎓 [Lexify Landing Page](https://github.com/urasokolik/lexify-landing-page)
-Адаптивный лендинг волонтёрской онлайн-школы английского языка. Без фреймворков: чистые HTML и CSS.
+### 🏠 Бот подбора недвижимости
+Омниканальный сервис для агентства недвижимости: проводит клиента по анкете, поддерживает отдельный сценарий аренды и передаёт готовую заявку менеджеру. Telegram и VK работают в едином решении.
 
-[![Lexify](https://github-readme-stats.vercel.app/api/pin/?username=urasokolik&repo=lexify-landing-page&show_owner=true&theme=default)](https://github.com/urasokolik/lexify-landing-page)
+**Стек:** Python, aiogram, VK API, aiohttp, Render
 
-**Стек:** HTML, CSS, responsive design.
+### 🎓 [Lexify Landing Page](https://github.com/urasokolik/lexify-landing-page)
+Адаптивный лендинг волонтёрской онлайн-школы английского языка. Акцент на ясной структуре, аккуратной вёрстке и удобстве на мобильных устройствах.
 
-#### 📣 [Telegram Opt-in Broadcast Bot](https://github.com/urasokolik/telegram-opt-in-broadcast-bot)
-Бот для рассылок пользователям, которые самостоятельно оформили подписку. Поддерживает паузу, продолжение, отчётность и хранение статусов доставки.
+**Стек:** HTML, CSS, responsive design
 
-[![Broadcast Bot](https://github-readme-stats.vercel.app/api/pin/?username=urasokolik&repo=telegram-opt-in-broadcast-bot&show_owner=true&theme=default)](https://github.com/urasokolik/telegram-opt-in-broadcast-bot)
+### 📣 [Telegram Opt-in Broadcast Bot](https://github.com/urasokolik/telegram-opt-in-broadcast-bot)
+Сервис рассылок для пользователей, которые самостоятельно оформили подписку. Есть пауза и продолжение рассылки, отчётность и хранение статусов доставки.
 
-**Стек:** Python, aiogram, SQLite.
+**Стек:** Python, aiogram, SQLite
 
----
+## Технологии
 
-### 🛠 Стек
-- **Языки:** Python, HTML, CSS
-- **Библиотеки:** aiogram, aiohttp, SQLite
-- **Инструменты:** Git, GitHub Actions, Render
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="aiogram" src="https://img.shields.io/badge/aiogram-2F6BFF?style=flat-square&logo=telegram&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Render" src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=111111" />
+</p>
 
----
+## Как работаю
 
-### 📫 Контакты
-- Telegram: [@urasokolik](https://t.me/urasokolik)
+1. Погружаюсь в задачу и уточняю, какой результат нужен бизнесу
+2. Предлагаю понятное решение без лишней сложности
+3. Собираю продукт, тестирую ключевые сценарии и довожу до запуска
+4. Оставляю код и структуру, с которыми удобно работать дальше
+
+## Контакты
+
+Если нужен сайт, Telegram-бот или автоматизация для бизнеса, напишите мне в Telegram: [@urasokolik](https://t.me/urasokolik)
