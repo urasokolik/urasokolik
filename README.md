@@ -8,6 +8,9 @@
 <p align="center">
   <a href="https://t.me/urasokolik">Связаться в Telegram</a>
 </p>
+<p align="center">
+  <a href="[https://t.me/urasokolik](https://urasokolik.github.io/nuar-portfolio/)">Мой сайт</a>
+</p>
 
 ---
 
